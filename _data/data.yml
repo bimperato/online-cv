@@ -24,7 +24,6 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-
     languages:
       - idiom: English
         level: Native
@@ -54,20 +53,20 @@ experiences:
     - role: Software Developer Intern
       time: Jan 2020 - Feb 2021
       company: West Chester University
-      details: |
+      details: 
        - Designing and editing web pages using HTML, CSS, and JavaScript
        - Assuring web page is easy to operate and organized
        - Communicating with customers to guarantee satisfaction with the web page edits
     - role: Software Developer Intern
       time: May 2019 - August 2019
       company: Berkadia
-      details: |
+      details: 
         - Using Cypress, developed End to End tests for an Angular 8 application
         - Participated in scrum events such as daily stand-ups, sprint planning’s, and retros
     	- Collaborated with other developers to ensure code was of high quality
 projects:
     title: Projects
-    intro: >
+    intro: 
       During my internship at West Chester University, I had the opportunity to create a web page from scratch. This web page shows data regarding majors, employment, career outcomes, top job titles, and more statistics. 
     assignments:
       - title: Final Destination Page
@@ -91,5 +90,5 @@ skills:
       - name: React
         level: 50%
 
-footer: >
+footer: 
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
