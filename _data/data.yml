@@ -30,7 +30,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: 
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
@@ -41,7 +41,7 @@ education:
     - degree: BA in Computer Science
       university: West Chester University
       time: 2017-2021
-      details: |
+      details: 
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
         sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -63,11 +63,10 @@ experiences:
       details: 
         - Using Cypress, developed End to End tests for an Angular 8 application
         - Participated in scrum events such as daily stand-ups, sprint planning’s, and retros
-    	- Collaborated with other developers to ensure code was of high quality
+    - Collaborated with other developers to ensure code was of high quality
 projects:
     title: Projects
-    intro: 
-      During my internship at West Chester University, I had the opportunity to create a web page from scratch. This web page shows data regarding majors, employment, career outcomes, top job titles, and more statistics. 
+    intro: During my internship at West Chester University, I had the opportunity to create a web page from scratch. This web page shows data regarding majors, employment, career outcomes, top job titles, and more statistics. 
     assignments:
       - title: Final Destination Page
         link: https://www.wcupa.edu/www/briana/finaldestination/default.aspx
