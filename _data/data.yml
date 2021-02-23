@@ -31,39 +31,26 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: 
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hi! My name is Briana Imperato, and I am a senior computer science student at West Chester Univeristy. I have a passion for software development and a desire to problem solve, which makes learning new things very exciting for me. Throughout my college experience, I have completed two internships. Both of these have taught me the importance of attention to detail, double checking my work, collaborating with other developers, and time management. 
 education:
     - degree: BA in Computer Science
       university: West Chester University
       time: 2017-2021
       details: 
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        During my time at West Chester University, I have learned a lot about computer science. I was taught Java, C, Ocaml, and React. 
+          - GPA - 3.6
           - Deans List Fall 2019 & Spring 2020
-          - Bullet point
 experiences:
     - role: Software Developer Intern
       time: Jan 2020 - Feb 2021
       company: West Chester University
       details: 
-       - Designing and editing web pages using HTML, CSS, and JavaScript
-       - Assuring web page is easy to operate and organized
-       - Communicating with customers to guarantee satisfaction with the web page edits
+       I was in charge of designing and editing web pages using HTML, CSS, JavaScript, and JQuery. Assuring web page is easy to operate and organized for the client was another role I had, as well as communicating with clients to guarantee satisfaction with the web page edits
     - role: Software Developer Intern
       time: May 2019 - August 2019
       company: Berkadia
       details: 
-        - Using Cypress, developed End to End tests for an Angular 8 application
-        - Participated in scrum events such as daily stand-ups, sprint planning’s, and retros
-    - Collaborated with other developers to ensure code was of high quality
+        During this internship, I used Cypress to develop End to End tests for an Angular 8 application. I also participated in scrum events such as daily stand-ups, sprint planning’s, and retros, as well as collaborated with other developers to ensure code was of high quality
 projects:
     title: Projects
     intro: During my internship at West Chester University, I had the opportunity to create a web page from scratch. This web page shows data regarding majors, employment, career outcomes, top job titles, and more statistics. 
@@ -81,13 +68,19 @@ skills:
         level: 90%
 
       - name: Ocaml
-        level: 70%
+        level: 40%
 
       - name: HTML5 & CSS
         level: 95%
         
       - name: React
         level: 50%
+
+      - name: C
+        level: 55%
+
+      - name: JQuery
+        level: 75%
 
 footer: 
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
