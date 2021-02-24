@@ -65,22 +65,22 @@ skills:
         level: 90%
 
       - name: Javascript
-        level: 90%
-
-      - name: Ocaml
-        level: 40%
+        level: 95%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 90%
         
       - name: React
-        level: 50%
+        level: 30%
 
       - name: C
-        level: 55%
+        level: 45%
 
       - name: JQuery
-        level: 75%
+        level: 70%
+
+      - name: SQL
+        level: 50%
 
 footer: 
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
